@@ -1,5 +1,5 @@
 # bakalarska_prace_UJEP
-Repozitář s externími přílohami pro mou bakalářskou práci\
+Repozitář s externími přílohami pro mou bakalářskou práci.
 
 Videa jsou nahrána externě na platformě YouTube: \
 BP_UzivatelskeRizeni - https://youtu.be/RRjC4UCHcOs \
